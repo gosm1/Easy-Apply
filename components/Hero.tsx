@@ -25,7 +25,12 @@ export default function Hero() {
             </p>
 
             <div className="hero-ctas fade-up delay-3">
-              <a href="/#install" className="btn btn-primary btn-large">
+              <a
+                href="https://chromewebstore.google.com/detail/easyapply-job-url-autofil/bonnjpebplkekihiokbfeeejkcbhfnfk"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn btn-primary btn-large"
+              >
                 <svg
                   width="16"
                   height="16"

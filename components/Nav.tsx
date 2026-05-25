@@ -12,7 +12,12 @@ export default function Nav() {
           <a href="/#story">Story</a>
           <a href="/#how">How it works</a>
           <a href="/#faq">FAQ</a>
-          <a href="/#install" className="btn btn-primary">
+          <a
+            href="https://chromewebstore.google.com/detail/easyapply-job-url-autofil/bonnjpebplkekihiokbfeeejkcbhfnfk"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-primary"
+          >
             Add to Chrome Free
           </a>
         </div>

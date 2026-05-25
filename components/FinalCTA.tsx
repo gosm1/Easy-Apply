@@ -9,7 +9,12 @@ export default function FinalCTA() {
           Install EasyApply, paste your three links, and reclaim your evenings. It takes
           about 30 seconds.
         </p>
-        <a href="#" className="btn btn-white btn-large">
+        <a
+          href="https://chromewebstore.google.com/detail/easyapply-job-url-autofil/bonnjpebplkekihiokbfeeejkcbhfnfk"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="btn btn-white btn-large"
+        >
           <svg
             width="18"
             height="18"

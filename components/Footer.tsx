@@ -9,7 +9,13 @@ export default function Footer() {
           <span>Made by a student, for students. &nbsp;·&nbsp; © 2026</span>
         </div>
         <div className="footer-right">
-          <a href="/#install">Chrome Store</a>
+          <a
+            href="https://chromewebstore.google.com/detail/easyapply-job-url-autofil/bonnjpebplkekihiokbfeeejkcbhfnfk"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Chrome Store
+          </a>
           <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>
           <a href="/privacy">Privacy</a>
           <a href="/support">Support</a>
