@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Support",
   description:
     "Get help with EasyApply. Common issues, troubleshooting tips, and how to reach a real human.",
-  alternates: { canonical: "https://easyapply.vercel.app/support" },
+  alternates: { canonical: "https://easyapply1.vercel.app/support" },
 }
 
 const issues = [

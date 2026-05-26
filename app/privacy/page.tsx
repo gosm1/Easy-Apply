@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Privacy Policy",
   description:
     "EasyApply's privacy policy. We don't collect, transmit, or share any of your data. Everything lives in your browser.",
-  alternates: { canonical: "https://easyapply.vercel.app/privacy" },
+  alternates: { canonical: "https://easyapply1.vercel.app/privacy" },
 }
 
 const promises = [

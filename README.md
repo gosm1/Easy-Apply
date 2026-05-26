@@ -1,6 +1,6 @@
 # EasyApply Landing Page
 
-> The marketing site for [EasyApply](https://easyapply.vercel.app), a free Chrome extension that auto-fills your GitHub, LinkedIn, and portfolio links on any job application.
+> The marketing site for [EasyApply](https://easyapply1.vercel.app), a free Chrome extension that auto-fills your GitHub, LinkedIn, and portfolio links on any job application.
 
 Built by a student who got tired of typing `github.com/yourname` for the fiftieth time at 2am.
 
